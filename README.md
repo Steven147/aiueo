@@ -8,7 +8,7 @@
   - Linux、macOS系统[下载](https://jbox.sjtu.edu.cn/l/snpjoV)
   - Windows系统[下载](https://jbox.sjtu.edu.cn/l/EnSEIq)
 
-- Gihub地址 [python/2021/日语五十音学习 at master · Steven147/python](https://github.com/Steven147/python/tree/master/2021/%E6%97%A5%E8%AF%AD%E4%BA%94%E5%8D%81%E9%9F%B3%E5%AD%A6%E4%B9%A0)
+- Gihub地址 [Steven147/aiueo](https://github.com/Steven147/aiueo)
 
 ## 需求分析
 
